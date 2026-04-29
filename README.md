@@ -10,7 +10,7 @@ The fare is calculated based on distance, vehicle type, and time of travel.
 ## Features
 
 * Multiple vehicle options (Economy, Premium, SUV, Bike, Auto, Electric)
-* Peak hour surge pricing (5 PM – 8 PM)
+* Peak hour surge pricing (5 PM – 9 PM)
 * Night charges for late hours
 * Case-insensitive input (user can enter vehicle names in any format)
 * Clean and structured price receipt
